@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Calculator 2</string>
+    <string name="add_op">+</string>
+    <string name="sub_op">-</string>
+    <string name="mul_op">*</string>
+    <string name="div_op">/</string>
+    <string name="mod_op">%</string>
+    <string name="first_value">First value</string>
+    <string name="second_value">Second value</string>
+    <string name="txtResult">RESULT</string>
+
+</resources>

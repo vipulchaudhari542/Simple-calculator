@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text">30sp</dimen>
+    <dimen name="btnMargin">3sp</dimen>
+    <dimen name="operationSign">35sp</dimen>
+</resources>
